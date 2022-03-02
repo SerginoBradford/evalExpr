@@ -18,7 +18,7 @@ Then,
 $ make
 ```
 ## FEATURES
-The program handle float numbers, parentheses and the following binary operators: sum(+), difference(-), product(*), division(\), power (^)
+The program handle float numbers, parentheses and the following binary operators: sum(+), difference(-), product(*), division(\\), power (^)
 
 ## WARNING
 
