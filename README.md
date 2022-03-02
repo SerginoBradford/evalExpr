@@ -2,7 +2,7 @@
 
 ## DESCRIPTION
 
-> The goal of this project is to implement a expression evaluator in Haskell
+> The goal of this project is to implement a evaluator of algebric expression in parameter strings in Haskell
 
 ## PREREQUISITES
 What do you need to install ?
@@ -17,6 +17,11 @@ Then,
 ```bash
 $ make
 ```
+## FEATURES
+The program handle float numbers, parentheses and the following binary operators:
+    - sum(+), difference(-)
+    - product(*), division(\)
+    - power (^)
 
 ## WARNING
 
